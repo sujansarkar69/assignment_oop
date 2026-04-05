@@ -1,5 +1,5 @@
-print("Hello World")
-
+print("final changes")
 x = 5
-y = 5
-print(x + y )
+y = 10
+print("Sum:", x + y)
+print("Multiply:", x * y)
